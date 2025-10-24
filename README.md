@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @wusimpl
 - 👀 I’m interested in crypto and cycling.
-- 🌱 I’m currently studying knowledge graph.
-- 📫 Mail to wusimpl@skiff.com to reach me or go to twitter @wusimpl.
+- 🌱 I’m currently working as a software enginner.
+- 📫 Mail to fivesimple@foxmail.com to reach me or go to twitter @wusimpl.

@@ -3,11 +3,12 @@
 I’m currently working as a software engineer.
 
 ## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-熟练-00599C?style=for-the-badge&logo=cplusplus)
-![Qt](https://img.shields.io/badge/Qt-熟练-41CD52?style=for-the-badge&logo=qt)
-![Linux](https://img.shields.io/badge/Linux-熟练-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-熟悉-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-了解-F7DF1E?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-熟练-4CAF50?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-熟练-4CAF50?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-熟练-4CAF50?style=for-the-badge&logo=linux&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-熟练-4CAF50?style=for-the-badge&logo=vim&logoColor=white)
+![Python](https://img.shields.io/badge/Python-熟悉-2196F3?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-了解-FF9800?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ## 📊 GitHub Stats

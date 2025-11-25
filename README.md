@@ -20,10 +20,10 @@ I’m currently working as a software engineer.
 
 ## 💡 Interests
 <div align="left">
-  <img src="https://img.shields.io/badge/⚡_Crypto-1a1a1a?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
   <img src="https://img.shields.io/badge/🚴_Cycling-1a1a1a?style=for-the-badge&logo=strava&logoColor=FC4C02" />
   <img src="https://img.shields.io/badge/🤖_AI-1a1a1a?style=for-the-badge&logo=openai&logoColor=00A67E" />
   <img src="https://img.shields.io/badge/📚_Reading-1a1a1a?style=for-the-badge&logo=goodreads&logoColor=372213" />
+  <img src="https://img.shields.io/badge/⚡_Crypto-1a1a1a?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
 </div>
 
 

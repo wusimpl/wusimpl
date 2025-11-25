@@ -15,6 +15,15 @@ I’m currently working as a software engineer.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wusimpl&theme=radical&hide_border=true" />
 </div>
 
+## 💡 Interests
+<div align="left">
+  <img src="https://img.shields.io/badge/🚴_Cycling-1a1a1a?style=for-the-badge&logo=strava&logoColor=FC4C02" />
+  <img src="https://img.shields.io/badge/🤖_AI-1a1a1a?style=for-the-badge&logo=openai&logoColor=00A67E" />
+  <img src="https://img.shields.io/badge/📚_Reading-1a1a1a?style=for-the-badge&logo=goodreads&logoColor=372213" />
+  <img src="https://img.shields.io/badge/⚡_Crypto-1a1a1a?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
+</div>
+
+
 ## 📫 Connect with me
 <div align="left">
   <a href="https://twitter.com/wusimpl">

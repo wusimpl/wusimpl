@@ -3,9 +3,12 @@
 I’m currently working as a software engineer.
 
 ## 🛠️ Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,python,js&perline=10" />
-</div>
+![C++](https://img.shields.io/badge/C++-熟练-00599C?style=for-the-badge&logo=cplusplus)
+![Qt](https://img.shields.io/badge/Qt-熟练-41CD52?style=for-the-badge&logo=qt)
+![Linux](https://img.shields.io/badge/Linux-熟练-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-熟悉-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-了解-F7DF1E?style=for-the-badge&logo=javascript)
+
 
 ## 📊 GitHub Stats
 <div align="left">
@@ -17,10 +20,10 @@ I’m currently working as a software engineer.
 
 ## 💡 Interests
 <div align="left">
+  <img src="https://img.shields.io/badge/⚡_Crypto-1a1a1a?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
   <img src="https://img.shields.io/badge/🚴_Cycling-1a1a1a?style=for-the-badge&logo=strava&logoColor=FC4C02" />
   <img src="https://img.shields.io/badge/🤖_AI-1a1a1a?style=for-the-badge&logo=openai&logoColor=00A67E" />
   <img src="https://img.shields.io/badge/📚_Reading-1a1a1a?style=for-the-badge&logo=goodreads&logoColor=372213" />
-  <img src="https://img.shields.io/badge/⚡_Crypto-1a1a1a?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
 </div>
 
 

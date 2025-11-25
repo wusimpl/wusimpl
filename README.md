@@ -23,7 +23,7 @@ I’m currently working as a software engineer.
   <a href="mailto:fivesimple@foxmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.xiaohongshu.com/user/profile/665c10bc0000000007006e58">
+  <a href="https://www.xiaohongshu.com/user/profile/665c10bc0000000007006e58?xsec_token=YBK04raKWJ8aJjzpzLJ19wsuzU6Hwkl38Yw3rGTQDK9uY=&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODw3QzQ1Rkw2NzUyOTgwNjY6OTc6SjtB&apptime=1764035731&share_id=2370523e952347c983abe9dffd48d203">
     <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
   </a>
 </div>
